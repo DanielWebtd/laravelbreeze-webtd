@@ -1,2 +1,2 @@
-Este proyecto es para el "Curso completo de Laravel" que se utilizará de la sección "Pagination Laravel" en adelante.
+Este proyecto es para el "Curso completo de Laravel" que se utilizará en la sección "Pagination Laravel" y la sección "Eloquent y Eloquent Relationships"
 Se llama "laravelbreeze-webtd" porque tiene instalada la autenticación con el paquete Laravel Breeze, en las secciones anteriores también teniamos la autenticación instalada pero con el paquete "laravel/ui", lo cual, de la versión de Laravel 9x en adelante ya no se recomienda usar, es mejor, Laravel Breeze.
